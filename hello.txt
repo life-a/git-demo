@@ -3,5 +3,5 @@ hello C!
 hello C!
 hello C!
 hello C!
-hello C!
-hello C!
+hello python!
+hello java!
