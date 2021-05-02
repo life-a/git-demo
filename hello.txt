@@ -1,9 +1,7 @@
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Java!
+hello C!
+hello C!
+hello C!
+hello C!
+hello C!
+hello C!
 hello C!
